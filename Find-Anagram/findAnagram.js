@@ -1,4 +1,4 @@
-// FIND ANAGRAM OF THE GIVEN VALUES IN THE GIVEN ARRAY
+// FIND ANAGRAM OF THE GIVEN VALUE IN THE AN ARRAY
 
 const findAnagram = (str1, str2) => {
   let counter = {};
